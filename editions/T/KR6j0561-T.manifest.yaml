@@ -1,0 +1,38 @@
+canonical_identifier: bkk:krp/KR6j0561/T/v1
+canonical_location: https://kanripo.org/bkk/KR6j0561/T/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 囉嚩拏說救療小兒疾病經
+  identifiers:
+    krp: KR6j0561
+    cbeta: T21n1330
+    cbeta_old_id: T21n1330
+    authorityid: CA0002152
+    json_key: T1330
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T21/T21n1330.xml
+    old_id: T21n1330
+  edition:
+    short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6j0561_000-T.yaml, hash: 'sha256:67b88b1f84bdd9e949216f3fa4baf1e4c774256b4187160ff686c3c25c126328'}
+  - {seq: 1, filename: KR6j0561_001-T.yaml, hash: 'sha256:38ec05c4dbff61009986f7d6b804f29468b6ba468410836feb133111fabca372'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6j0561_000-T.markers.yaml, hash: 'sha256:a8ea8d5065605ec9b8ea2616db736aa27d2fc1a51577cdd70990e1c18726d49a'}
+  - {seq: 1, role: markers, filename: assets/KR6j0561_001-T.markers.yaml, hash: 'sha256:27b11f61e325c6bbdfc134b757eaf89077e48f461c42e767ef5c646158f757eb'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6j0561_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 3955
+  label: 囉嚩拏說救療小兒疾病經
+  type: juan
+  level: 1
+hash: sha256:581f1ada1308f9f6c5b03c42be6474560b6957f868d302158e5322e8d8dae485
