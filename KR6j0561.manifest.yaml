@@ -34,9 +34,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6j0561_000.yaml, hash: 'sha256:67b88b1f84bdd9e949216f3fa4baf1e4c774256b4187160ff686c3c25c126328'}
-  - {seq: 1, filename: KR6j0561_001.yaml, hash: 'sha256:22af13117044851fbba5bb3d46e9ff4ce13cd0c804e2e9bb399a80ca21997b13'}
+  - {seq: 1, filename: KR6j0561_001.yaml, hash: 'sha256:38ec05c4dbff61009986f7d6b804f29468b6ba468410836feb133111fabca372'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6j0561_001.markers.yaml, hash: 'sha256:d32427e08f4a30426aef35786eb596e4d466bae01120217fd8692839ac165671'}
+  - {seq: 0, role: markers, filename: assets/KR6j0561_000.markers.yaml, hash: 'sha256:ea2f2df4ec234acae91ab14f6840e9640c8aca1632f899d7f43b6033f2b48c44'}
+  - {seq: 1, role: markers, filename: assets/KR6j0561_001.markers.yaml, hash: 'sha256:d3dd366b2ef34f4067819d91bdfb061f1203d94b5740dd115276fee105cfe74a'}
 table_of_contents:
 - ref:
     seq: 1
@@ -48,7 +49,4 @@ table_of_contents:
   label: 囉嚩拏說救療小兒疾病經
   type: juan
   level: 1
-hash: sha256:0b38c24d59945fadc5a8062fcd19fe6725ca9fbf8f6774897411313e897380a3
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:e54aa8ed8e1f9108c09d24ea5e16dff6bb6d32be9fe1098a6dac3ced4b7fd3b2
