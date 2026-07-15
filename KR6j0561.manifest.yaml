@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6j0561/v1
 canonical_location: https://kanripo.org/bkk/KR6j0561/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 囉嚩拏說救療小兒疾病經
   identifiers:
@@ -34,10 +34,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6j0561_000.yaml, hash: 'sha256:67b88b1f84bdd9e949216f3fa4baf1e4c774256b4187160ff686c3c25c126328'}
-  - {seq: 1, filename: KR6j0561_001.yaml, hash: 'sha256:38ec05c4dbff61009986f7d6b804f29468b6ba468410836feb133111fabca372'}
+  - {seq: 1, filename: KR6j0561_001.yaml, hash: 'sha256:2954cd19c4afda2c0a5bc918ff898b1b9b86b8d2d36d48000132b3f4fd52f2bc'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6j0561_000.markers.yaml, hash: 'sha256:ea2f2df4ec234acae91ab14f6840e9640c8aca1632f899d7f43b6033f2b48c44'}
-  - {seq: 1, role: markers, filename: assets/KR6j0561_001.markers.yaml, hash: 'sha256:d3dd366b2ef34f4067819d91bdfb061f1203d94b5740dd115276fee105cfe74a'}
+  - {seq: 1, role: markers, filename: assets/KR6j0561_001.markers.yaml, hash: 'sha256:fd7936453f4501a5f0ab0533d5799ea6a1de726c6f335d96429fe76ad35e517f'}
 table_of_contents:
 - ref:
     seq: 1
@@ -49,4 +49,7 @@ table_of_contents:
   label: 囉嚩拏說救療小兒疾病經
   type: juan
   level: 1
-hash: sha256:e54aa8ed8e1f9108c09d24ea5e16dff6bb6d32be9fe1098a6dac3ced4b7fd3b2
+hash: sha256:a087217cb4e9b850c736f01fb220b5368a6225ada4a7fc8b2003caebe1f88498
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
